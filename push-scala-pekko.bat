@@ -1,0 +1,1 @@
+docker push nykreditsurn/scalapekko:1.0.0

@@ -1,0 +1,1 @@
+docker build -f ScalaPekko/Dockerfile -t nykreditsurn/scalapekko:1.0.0 .
